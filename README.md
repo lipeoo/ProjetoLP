@@ -1,6 +1,7 @@
 # ProjetoLP
-<h1><strong>Trabalho Unity - Desenvolvimento de Cena</strong></h1>
+<h1>Trabalho Unity - Desenvolvimento de Cena</h1>
 <h3></h3>
+
 <p>
 <h2>5 objetos:</h2>
   <li>Bola de Basquete</li>
@@ -19,8 +20,8 @@
   <h2>
   A utilização de texztura foi para a bola de basquete, para que se parece-se uma bola de verdade,
   porém a falta de uma biblioteca para texturas específicas torna o aprimoramento inviável. Tornando 
-  na maioria das vezes a preferência de se evitar usar textura em alguns materias, por isso apenas <strong>
-  por enquanto</strong> foi utilizado apenas na bola de basquete.
+  na maioria das vezes a preferência de se evitar usar textura em alguns materias, por isso apenas
+  por enquanto foi utilizado apenas na bola de basquete.
   </h2>
   ![image](https://github.com/lipeoo/ProjetoLP/assets/162318706/d7ec32fb-e89b-43a3-af50-6adec6404320)
 </p>
