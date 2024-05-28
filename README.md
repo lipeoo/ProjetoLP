@@ -9,9 +9,10 @@ um personagem jogador de basquete que pode se mover na quadra se interagindo com
 como a utilização da asset store e a criação de objetos como quadrados e esferas para composição de
 objetos mais complexos, após isso, foi inserido a textura e o objeto da bola de basquete. Logo foi
 trabalhado os elementos da física, como o rigbody e sphere collider.
-</h2>
-<p>
+</h2> 
 ![image](https://github.com/lipeoo/ProjetoLP/assets/162318706/8d1c16fd-a843-4d0b-a6ea-41b2f0c6eaaf)
+<p>
+ 
 <h2>5 objetos:</h2>
   <li>Bola de Basquete</li>
   <li>Cesta de basquete</li>
@@ -25,7 +26,7 @@ trabalhado os elementos da física, como o rigbody e sphere collider.
     As texturas servem para se incrementar nos objetos, necessária para para que um objeto tenha uma
   cor, e como seu próprio nome diz, um textura diferente. Podendo-se aplicar uma imagem a objetos.
 </h2>
-![image](https://github.com/lipeoo/ProjetoLP/assets/162318706/38291745-9187-4680-b83c-84dacb2efd40)
+  ![image](https://github.com/lipeoo/ProjetoLP/assets/162318706/38291745-9187-4680-b83c-84dacb2efd40)
   <h2>
     A utilização de texztura foi para a bola de basquete, para que se parece-se uma bola de verdade,
   porém a falta de uma biblioteca para texturas específicas torna o aprimoramento inviável. Tornando 
