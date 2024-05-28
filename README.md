@@ -10,9 +10,9 @@ como a utilização da asset store e a criação de objetos como quadrados e esf
 objetos mais complexos, após isso, foi inserido a textura e o objeto da bola de basquete. Logo foi
 trabalhado os elementos da física, como o rigbody e sphere collider.
 </h2> 
-![image](https://github.com/lipeoo/ProjetoLP/assets/162318706/8d1c16fd-a843-4d0b-a6ea-41b2f0c6eaaf)
+
 <p>
- 
+![image](https://github.com/lipeoo/ProjetoLP/assets/162318706/8d1c16fd-a843-4d0b-a6ea-41b2f0c6eaaf)
 <h2>5 objetos:</h2>
   <li>Bola de Basquete</li>
   <li>Cesta de basquete</li>
