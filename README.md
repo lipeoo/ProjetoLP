@@ -42,7 +42,7 @@ trabalhado os elementos da física, como o rigbody e sphere collider.
     sons,texturas,efeitos,etc...). A utilização da asset store foi para compor o cenário da cena, que se
     passa em uma cidade.  
   </h2>
-![image](https://github.com/lipeoo/ProjetoLP/assets/162318706/2221ed7a-3f32-4b77-9548-eb0dec228a88)
+<img src="https://github.com/lipeoo/ProjetoLP/assets/162318706/2221ed7a-3f32-4b77-9548-eb0dec228a88">
 </p>
 <p>
 <h3>Física</h3>
@@ -50,7 +50,7 @@ trabalhado os elementos da física, como o rigbody e sphere collider.
     A física no Unity necessita que se crie um asset de física, onde se pode editar a fricção e as 
   quicadas(bounce). 
 </h2>
-![image](https://github.com/lipeoo/ProjetoLP/assets/162318706/946d0fc5-2ead-4016-990a-5f06dac1d3af)
+<img src="https://github.com/lipeoo/ProjetoLP/assets/162318706/946d0fc5-2ead-4016-990a-5f06dac1d3af">
   <h2>
     Então se deve ter um objeto que tenha um colisor, como box collider, sphere collider, terrain collider,
   etc... e deve aplicar o asset de física criado nesse collider, que então provê diferentes características.
@@ -58,5 +58,5 @@ trabalhado os elementos da física, como o rigbody e sphere collider.
   retirar gravidade, colocar massa e entre outras características.
   Exemplo física da bola de basquete:
 </h2>
-![image](https://github.com/lipeoo/ProjetoLP/assets/162318706/33271687-df69-4590-a09f-239605664f56)
+<img src="https://github.com/lipeoo/ProjetoLP/assets/162318706/33271687-df69-4590-a09f-239605664f56">
 </p>
