@@ -12,7 +12,7 @@ trabalhado os elementos da física, como o rigbody e sphere collider.
 </h2> 
 
 <p>
-![image](https://github.com/lipeoo/ProjetoLP/assets/162318706/8d1c16fd-a843-4d0b-a6ea-41b2f0c6eaaf)
+[image](https://github.com/lipeoo/ProjetoLP/assets/162318706/8d1c16fd-a843-4d0b-a6ea-41b2f0c6eaaf)
 <h2>5 objetos:</h2>
   <li>Bola de Basquete</li>
   <li>Cesta de basquete</li>
@@ -28,7 +28,7 @@ trabalhado os elementos da física, como o rigbody e sphere collider.
 </h2>
   ![image](https://github.com/lipeoo/ProjetoLP/assets/162318706/38291745-9187-4680-b83c-84dacb2efd40)
   <h2>
-    A utilização de texztura foi para a bola de basquete, para que se parece-se uma bola de verdade,
+    A utilização de textura foi para a bola de basquete parece-se uma bola de verdade,
   porém a falta de uma biblioteca para texturas específicas torna o aprimoramento inviável. Tornando 
   na maioria das vezes a preferência de se evitar usar textura em alguns materias, por isso apenas
   por enquanto foi utilizado apenas na bola de basquete.
