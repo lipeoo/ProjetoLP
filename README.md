@@ -12,7 +12,7 @@ trabalhado os elementos da física, como o rigbody e sphere collider.
 </h2> 
 
 <p>
-![FotoGeral](https://github.com/lipeoo/ProjetoLP/assets/162318706/8d1c16fd-a843-4d0b-a6ea-41b2f0c6eaaf)
+<img src="https://github.com/lipeoo/ProjetoLP/assets/162318706/8d1c16fd-a843-4d0b-a6ea-41b2f0c6eaaf">
 <h2>5 objetos:</h2>
   <li>Bola de Basquete</li>
   <li>Cesta de basquete</li>
@@ -26,14 +26,14 @@ trabalhado os elementos da física, como o rigbody e sphere collider.
     As texturas servem para se incrementar nos objetos, necessária para para que um objeto tenha uma
   cor, e como seu próprio nome diz, um textura diferente. Podendo-se aplicar uma imagem a objetos.
 </h2>
-  ![image](https://github.com/lipeoo/ProjetoLP/assets/162318706/38291745-9187-4680-b83c-84dacb2efd40)
+  <img src="https://github.com/lipeoo/ProjetoLP/assets/162318706/38291745-9187-4680-b83c-84dacb2efd40">
   <h2>
     A utilização de textura foi para a bola de basquete parece-se uma bola de verdade,
   porém a falta de uma biblioteca para texturas específicas torna o aprimoramento inviável. Tornando 
   na maioria das vezes a preferência de se evitar usar textura em alguns materias, por isso apenas
   por enquanto foi utilizado apenas na bola de basquete.
   </h2>
-![image](https://github.com/lipeoo/ProjetoLP/assets/162318706/d7ec32fb-e89b-43a3-af50-6adec6404320)
+<img src="https://github.com/lipeoo/ProjetoLP/assets/162318706/d7ec32fb-e89b-43a3-af50-6adec6404320">
 </p>
 <p>
   <h3>Asset Store</h3>
